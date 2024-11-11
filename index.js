@@ -11,6 +11,12 @@ const songs = [
     { title: "Come and Get Your Love", artist: "Redbone", genre: "Rock" },
     { title: "I'm Not in Love", artist: "10cc", genre: "Pop" },
     { title: "Fooled Around and Fell in Love", artist: "Elvin Bishop", genre: "Rock" },
+    { title: "About damn time", artist: "Lizzo", genre: "Pop" },
+    { title: "Crawling", artist: "Linkin Park", genre: "Rock" },
+    { title: "First Class", artist: "JackHarlow", genre: "R&B" },
+    { title: "Wagon Wheel", artist: "Old Crow Medicine Show", genre: "Country" },
+    { title: "Tennessee Whiskey", artist: "Chris Stapleton", genre: "Country" },
+
     // Feel free to add even more songs
 ];
 
